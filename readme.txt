@@ -1,2 +1,2 @@
 Hello
-This is Sean Rosendaal.
+This is my name: Sean Rosendaal.
